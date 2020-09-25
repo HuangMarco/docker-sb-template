@@ -82,6 +82,9 @@
 				<artifactId>jib-maven-plugin</artifactId>
 				<version>2.5.0</version>
 				<configuration>
+					<from>
+						<image>registry.hub.docker.com/openjdk:alpine</image>
+					</from>
 					<to>
 						<image>${image.path}</image>
 					</to>
