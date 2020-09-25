@@ -83,7 +83,7 @@
 				<version>2.5.0</version>
 				<configuration>
 					<from>
-						<image>registry.hub.docker.com/openjdk:alpine</image>
+						<image>anbclub/alpine-jdk:v01</image>
 					</from>
 					<to>
 						<image>${image.path}</image>
